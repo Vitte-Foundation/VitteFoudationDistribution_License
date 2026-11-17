@@ -1,4 +1,3 @@
-```markdown
 # VitteFoundation Public License
 
 **Version 1.0 — 2026**
@@ -89,4 +88,4 @@ The license limits liability to the maximum extent permitted by applicable law.
 Read the [full VFPL 1.0 license](docs/VFPL-1.0.md).
 
 This README summarizes the supplied license text and does not replace its terms.
-```
+
